@@ -1,5 +1,7 @@
 # houseplant_identification
 
+# Step0: Data Collection
+
 # Step1: Data Cleansing & Quantity Check
 
 # Step2: Data Pre-Processing
