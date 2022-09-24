@@ -1,19 +1,16 @@
-# houseplant_identification
+# Image recognition of 20 houseplants using Residual Network (ResNet)
 
-# Step0: Data Collection
+## Step0: Data Collection
 
-# Step1: Data Cleansing & Quantity Check
+## Step1: Data Cleansing & Quantity Check
 
-# Step2: Data Pre-Processing
+## Step2: Data Pre-Processing
 
-# Step3: Model Training
+## Step3: Model Training
 
-# Step4: Model Validation
+## Step4: Model Validation
 
-# Step5: Model Testing
+## Step5: Model Testing
 
-# Step6: Review Confusion Matrix
+## Step6: Review Confusion Matrix
 
-# Step7: Line Bot Testing on Colab
-
-# Step8: Line Bot Deployment on Google Cloud Function
