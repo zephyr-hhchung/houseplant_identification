@@ -1,6 +1,6 @@
 ## Image recognition of 20 houseplants using Residual Network (ResNet)
 
-### Step 0: Data Collection
+<!-- ### Step 0: Data Collection
 
 ### Step 1: Data Cleansing & Quantity Check
 
@@ -12,5 +12,5 @@
 
 ### Step 5: Model Testing
 
-### Step 6: Review Confusion Matrix
+### Step 6: Review Confusion Matrix -->
 
